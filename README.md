@@ -1,1 +1,3 @@
-# tugas-2_pemrograman-jaringan
+# Tugas Threaded Client-Server dari Kelas Pemrograman Jaringan C
+## Sarah Alissa Putri
+## 5025201272
